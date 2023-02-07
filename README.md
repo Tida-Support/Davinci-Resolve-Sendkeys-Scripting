@@ -1,7 +1,7 @@
 # Davinci Resolve Sendkeys Scripting
 
 
-A Collection of Scripts which uses Sendkeys for MacOS
+A Collection of Scripts which uses Sendkeys https://github.com/socsieng/sendkeys for MacOS
 
 ## Cut
 td_CutLeftMarker and td_CutLeftMarker scripts are useful in the Edit Page and should improve Speed of Cutting Clip Sections in the Timeline. 
@@ -20,4 +20,5 @@ Both will trim the left section. The Mid section beween Playhead and Marker will
 ## Forum Discussion
 
 ## Installation
-Save Files to your Script Folder, assign Keyboard Shortcuts
+Install Sendkeys as described here: https://github.com/socsieng/sendkeys
+Save Lua Files to your Script Folder, assign Keyboard Shortcuts
