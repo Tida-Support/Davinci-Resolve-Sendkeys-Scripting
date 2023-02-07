@@ -10,7 +10,7 @@ Both will trim the left section. The Mid section beween Playhead and Marker will
 ## Required keyboard customization
 - B/N   Go to Next/Previous Marker
 - M     Select In and Out from Duration Marker
-- 
+- Option + M     Delete Marker
 - Q/E   Trim Start/End
 - W     Razor
 [![Curved Arrow](https://img.youtube.com/vi/fZ18M9OttIk/0.jpg)](https://www.youtube.com/watch?v=fZ18M9OttIk)
