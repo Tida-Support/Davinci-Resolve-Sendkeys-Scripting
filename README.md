@@ -13,6 +13,8 @@ Both will trim the left section. The Mid section beween Playhead and Marker will
 - Option + M - Delete Marker
 - Q/E - Trim Start/End
 - W - Razor
+
+
 [![Curved Arrow](https://img.youtube.com/vi/fZ18M9OttIk/0.jpg)](https://www.youtube.com/watch?v=fZ18M9OttIk)
 
 ## Forum Discussion
