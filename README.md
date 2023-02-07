@@ -1,1 +1,1 @@
-# Ravinci-Resolve-Sendkeys-Scripting
+# Davinci Resolve Sendkeys Scripting
